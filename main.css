@@ -1,0 +1,17 @@
+img.hero.main {
+    width: 500px;
+    height: 400px;
+}
+img.image2 {
+    width: 600px;
+    height: 300px;
+}
+img.image3 {
+    width: 400px;
+    height: 200px;
+}
+body {
+    background-color:beige;
+    font-size: 0.75em;
+}
+ 
